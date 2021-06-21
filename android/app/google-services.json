@@ -1,7 +1,6 @@
 {
   "project_info": {
     "project_number": "87845818369",
-    "firebase_url": "https://realtime-database-test-56eed-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "realtime-database-test-56eed",
     "storage_bucket": "realtime-database-test-56eed.appspot.com"
   },
@@ -38,13 +37,6 @@
             {
               "client_id": "87845818369-7c14at8ovfs3js9ql36ci68d48gd3t6c.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "87845818369-66p6m8po8jti94rfn4uo2r47prstrcd0.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.flutterflow.realtimedatabasetest"
-              }
             }
           ]
         }
